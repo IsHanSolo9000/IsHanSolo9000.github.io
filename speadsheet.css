@@ -20,8 +20,9 @@ h2.RandomHeader
 color:maroon;
     margin-left: 20px;
 }
-#B1
+#P1
 {
-color:purple;
+background-color: yellow;
+    margin-left: 40px;
 }
 </style>
