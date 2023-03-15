@@ -9,9 +9,9 @@ h1 {
   margin-left: 20px;
 }
 
-h1.Randomheader
+.Randomheader
 {
- background-color: yellow;
+ color: yellow;
     margin-left: 20px;
 
 }
